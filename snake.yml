@@ -1,0 +1,19 @@
+name: Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: platane/snk@master
+        with:
+          github_user: 'RedsharkG'
+          svg_out_path: './output/snake.svg'
