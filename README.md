@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00ffae;">Sehara Gishan Samarasinghe</span></h1>
 <h3 align="center">🔐 Passionate about Cybersecurity, Networks & Reverse Engineering</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=04F72A&width=700&lines=Hack+For+Good+!;Networks+for+World+!;Gather+for+Tomorrow+!" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=04F72A&center=true&vCenter=true&width=700&lines=Hack+For+Good+;Networks+for+World+;Gather+for+Tomorrow+" alt="Typing SVG" /></a>
 
 ---
 
