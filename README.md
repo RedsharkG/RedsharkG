@@ -4,9 +4,8 @@
 <h3 align="center">🔐 Passionate about Cybersecurity, Networks & Reverse Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAE&center=true&vCenter=true&width=600&lines=Hack+For+Better;Penetration+Testing;Networks+for+Life;Gather+for+Tomorrow" />
+  <img src="https://media.giphy.com/media/IeRdg7ew5FmqbIXMCB/giphy.gif" width="500"/>
 </p>
-
 
 
 
