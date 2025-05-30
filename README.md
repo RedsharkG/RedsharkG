@@ -1,10 +1,10 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00ffae;">Sehara Gishan Samarasinghe</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00ffae;">an Ethical Hacker</span></h1>
 <h3 align="center">🔐 Passionate about Cybersecurity, Networks & Reverse Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFAE&center=true&vCenter=true&width=435&lines=Try+to+Hack+Me...+If+You+Can!;Cyber+Guardian+by+Day...;Bug+Bounty+Hunter+by+Night" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFAE&center=true&vCenter=true&width=435&lines=Hack+For+Better;Penetration+Testing;Networks+for+Life;Gather+for+Tomorrow" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,6 +26,13 @@
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
+</p>
+
+---
+
+### 🧠 TryHackMe Badge
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/RedSharkG.png" alt="TryHackMe Badge" />
 </p>
 
 ---
