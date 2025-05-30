@@ -4,7 +4,7 @@
 <h3 align="center">🔐 Passionate about Cybersecurity, Networks & Reverse Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAE&center=true&vCenter=true&width=700&cursor=true&repeat=true&lines=Hack+For+Better;Penetration+Testing;Networks+for+Life;Gather+for+Tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FFAE&center=true&vCenter=true&width=700&cursor=true&repeat=true&lines=Hack+For+Better%20;Penetration+Testing%20;Networks+for+Life%20;Gather+for+Tomorrow%20" alt="Typing SVG" />
 </p>
 
 
